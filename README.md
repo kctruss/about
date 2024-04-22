@@ -32,7 +32,7 @@ I'm a tinkerer, a maker, a puzzle-solver, a finder of lost things and a fixer of
 	- Never publicly.
 
 
-#@ how I learn:
+## how I learn:
 - hands-on learner - fastest way for me to learn a new system is by debugging
 - written is good, lists are better, visuals are best
 - see one - do one - teach one: I like to share out what I learn, either by adding/adjusting documentation or by walking through it together
